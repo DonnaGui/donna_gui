@@ -612,17 +612,16 @@ a:hover {
     color: #fdfefe;
 }
 
-.mail_section li {
-    float: left;
-    font-size: 12pt;
-    color: #fdfefe;
-    padding-right: 35px;
-}
 .footer_section_2 {
     width: 100%;
     float: left;
     padding-top: 20px;
 }
+
+.footer-item-align{
+    margin-top: 3vw !important;
+}
+
 .shop_text {
     width: 100%;
     float: left;
