@@ -231,9 +231,9 @@ button {
     padding-right: 1.0em !important;
 }
 
-.nav-item:hover{
-    color: #bca651 !important;
-}
+/* .nav-item:hover{
+    color: black !important;
+} */
 
 .last{ padding-left: 30px !important; }
 .banner_text{
