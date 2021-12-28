@@ -382,7 +382,10 @@ body{
 }
 
 
-.shoes_img{ width: 100%; float: left; padding-top: 30px; }
+.clothes_img{ 
+    width: 85%; 
+    float: left;
+}
 
 .shoes-img2{
 	width: 100%;
@@ -467,7 +470,7 @@ body{
     float: left;
     background-color: #ffffff;
     height: auto;
-    padding: 20px 20px 20px 0px;
+    padding: 20px 20px 20px 20px;
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -514,7 +517,7 @@ body{
 	text-align: center;
 }
 .buy_text{
-	width: 32% !important;
+	/* width: 32% !important; */
 	height: 50px !important;
 	color: #ffffff !important;
 	background-color: #131111 !important;
